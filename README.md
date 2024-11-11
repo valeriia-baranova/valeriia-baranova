@@ -1,6 +1,6 @@
 ## Hi there, I'm Valeriia Baranova 👋
 
-# I'm a Data Analyst with 12 years of experience in urban planning and a background in spatial analysis
+# I'm a Data Analyst with experience in urban planning and a background in spatial analysis
 
 - 📈 Currently focused on data analytics and working on projects in Python, SQL, and EDA.
 - 🤝 Open to new opportunities in data analytics.
