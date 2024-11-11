@@ -1,6 +1,6 @@
-# Hi there, I'm Valeriia Baranova 👋
+## Hi there, I'm Valeriia Baranova 👋
 
-I'm a Data Analyst with 12 years of experience in urban planning and a background in spatial analysis.
+# I'm a Data Analyst with 12 years of experience in urban planning and a background in spatial analysis
 
 - 📈 Currently focused on data analytics and working on projects in Python, SQL, and EDA.
 - 🤝 Open to new opportunities in data analytics.
@@ -9,19 +9,19 @@ I'm a Data Analyst with 12 years of experience in urban planning and a backgroun
 ---
 
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40"/>](https://t.me/inlightwithu)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/valeriia-baranova-3b15a29b/)
+[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30"/>](https://t.me/inlightwithu)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/valeriia-baranova-3b15a29b/)
 
 ---
 
 ### Languages and Tools:
 <span>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="Jupyter" width="80"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
-    <img src="https://iconlogovector.com/uploads/images/2024/11/lg-6728bd4f89958-ArcGIS.webp" alt="ArcGIS" width="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="30"/>
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="30"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" alt="Jupyter" width="60"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="30"/>
+    <img src="https://iconlogovector.com/uploads/images/2024/11/lg-6728bd4f89958-ArcGIS.webp" alt="ArcGIS" width="30"/> 
 </span>
 
 ---
