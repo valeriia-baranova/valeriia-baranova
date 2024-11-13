@@ -39,6 +39,6 @@
 
 ---
 
-### Projects
-- **E-commerce Segmentation**: Conducted customer segmentation and developed recommendations to increase loyalty. [Project link](#)
-- **Moscow Foodservice Market Analysis**: Prepared a report to select a location for a coffee shop. [Project link](#)
+### Key Academic Projects (Yandex.Practicum - Data Analyst):
+- Final project - **E-commerce Segmentation**: Conducted customer segmentation and developed recommendations to increase loyalty. [Project link](#)
+- Course Project - **Moscow Foodservice Market Analysis**: Prepared a report to select a location for a coffee shop. [Project link](#)
