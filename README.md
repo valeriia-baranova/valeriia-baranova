@@ -4,7 +4,7 @@
 
 - 📈 Currently focused on data analytics and working on projects in Python, SQL, and EDA.
 - 🤝 Open to new opportunities in data analytics.
-- 🌟 Personal note: I transitioned from urban planning to data analytics to make data-driven decisions.
+- 🌟 Personal note: I transitioned from urban planning to data analytics to make data-driven decisions. 
 
 ---
 
