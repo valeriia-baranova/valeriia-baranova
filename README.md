@@ -19,8 +19,9 @@
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="30"/>
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="30"/>
-    <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" alt="Jupyter" width="60"/>
+    <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"" width="30"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="30"/>
+    <img src="https://iconlogovector.com/uploads/images/2024/11/lg-672beb92e8b64-Git.webp" alt="Git" width="30"/>
     <img src="https://iconlogovector.com/uploads/images/2024/11/lg-6728bd4f89958-ArcGIS.webp" alt="ArcGIS" width="30"/> 
 </span>
 
@@ -30,7 +31,7 @@
 ### My Skills
 
 **Technical Skills**:
-- Python, SQL, PostgreSQL, Jupyter Notebook, ArcGIS
+- Python, SQL, PostgreSQL, Git, Jupyter Notebook, ArcGIS
 
 **Analytical Methods**:
 - EDA (Exploratory Data Analysis), A/B Testing, RFM Segmentation, ML (Supervised Learning)
