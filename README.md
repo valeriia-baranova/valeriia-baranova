@@ -42,5 +42,5 @@
 ---
 
 ### Key Academic Projects (Yandex.Practicum - Data Analyst):
-- Final project - **E-commerce Segmentation**: Conducted customer segmentation and developed recommendations to increase loyalty. [Project link](#)
-- Course Project - **Moscow Foodservice Market Analysis**: Prepared a report to select a location for a coffee shop. [Project link](#)
+- Final project - **E-commerce Segmentation**: Conducted customer segmentation and developed recommendations to increase loyalty. [Project link - RUS](https://github.com/valeriia-baranova/graduate_projects/tree/main/ecom_graduate_project)
+- Course Project - **Moscow Foodservice Market Analysis**: Prepared a report to select a location for a coffee shop. [Project link - RUS](https://github.com/valeriia-baranova/graduate_projects/tree/main/moscow_restaurants_graduate_project)
